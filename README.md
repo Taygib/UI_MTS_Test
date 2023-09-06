@@ -64,3 +64,23 @@ selenoid_UserName = UserName
 selenoid_Password = Password
 selenoid_Url = Url
 ```
+## :bar_chart: Пример отчета о прохождении тестов в Allure и Telegram
+
+
+|        <img width="5%" title="Allure Report" src="src/test/resources/materials/pictures/Allure Report.png" > Allure <img src="src/test/resources/materials/screens/allure.png?raw=true">        | <img width="5%" title="Allure Report" src="src/test/resources/materials/pictures/Allure Report.png" > Allure<img src="src/test/resources/materials/screens/allure1.png?raw=true"> |
+|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+
+<p align="center">
+<img width="3%" title="Telegram" src="src/test/resources/materials/pictures/Telegram.png">Telegram
+</p>
+<p align="center">
+<img width="45%"  src="src/test/resources/materials/screens/Telegram.png?raw=true">                                                                        
+ </p>
+
+<p align="center">
+<img width="45%"  src="src/test/resources/materials/screens/screen.png?raw=true">                                                                        
+ </p>
+
+### <img width="5%" title="Selenoid" src="src/test/resources/materials/pictures/Selenoid.png"> Видео теста на Selenoid
+
+<img src="src/test/resources/materials/video/section.gif">
