@@ -21,11 +21,13 @@ public class ContactsPage {
     }
 
     public void checkPageVK(String vkMTS) {
+        itemVK.hover();
         itemVK.click();
         pageName.shouldHave(text(vkMTS));
     }
 
     public void checkPageOK(String okMTS) {
+        itemOK.hover();
         itemOK.click();
         groupName.shouldHave(text(okMTS));
     }
