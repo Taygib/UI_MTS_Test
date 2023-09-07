@@ -77,6 +77,8 @@ selenoid_Url = Url
 <img width="45%"  src="src/test/resources/materials/screens/Telegram.png?raw=true">                                                                        
  </p>
 
+На главной странице исчезает меню при горизонтальном разрешении 1285
+
 <p align="center">
 <img width="45%"  src="src/test/resources/materials/screens/screen.png?raw=true">                                                                        
  </p>
