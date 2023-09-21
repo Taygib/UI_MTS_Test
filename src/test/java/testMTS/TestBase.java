@@ -22,7 +22,7 @@ public class TestBase {
     @BeforeAll
     static void beforeAll() {
         Configuration.browser = System.getProperty("browser", "chrome");
-        Configuration.browserSize = System.getProperty("browserSize", "1288x850");
+        Configuration.browserSize = System.getProperty("browserSize", "1500x850");
         Configuration.browserVersion = System.getProperty("browserVersion", "100.0");
 
         if (isRemote) {

@@ -14,7 +14,7 @@ public class SectionsPage {
             matdialog = $("#mat-dialog-0"),
             navigations = $(".section-box__navigations"),
             mainHeading = $(".menu-categories__main-heading"),
-            boxTitle = $(".section-box__title"),
+            boxTitle = $(".universal-catalog-title__text"),
             pageTitle = $(".home-services-page-title"),
             catalogTitle = $(".universal-catalog-title__text");
 
